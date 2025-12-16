@@ -10,11 +10,11 @@ public class Num
 
         if(n > 0)
         {
-            System.out.println("Even Number " + n);
+            System.out.println("Positive Number " + n);
         }
         else
         {
-            System.out.println("Odd Number " + n);
+            System.out.println("Negative Number " + n);
         }
     }
 }
